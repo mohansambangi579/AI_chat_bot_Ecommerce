@@ -29,5 +29,5 @@ index = LocalIndex()
 router =  SemanticRouter(routes=[faq,sql], encoder=encoder, auto_sync="local", index= index)
 
 if __name__ == "__main__":
-    print(router("How can i track my order?").name)
+    print(router("What is the return policy of the products?").name)
     print(router("Pink Puma shoes in price range 5000 to 1000").name)
