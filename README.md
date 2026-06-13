@@ -16,3 +16,6 @@ This is a POC of an Chatbot for an ecommerce platform.
     ```bash
     streamlit run app/main.py
     ```
+
+### Console
+<img src ="app/resources/console.png" width="400">
