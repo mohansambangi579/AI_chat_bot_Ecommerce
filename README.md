@@ -2,7 +2,7 @@
 This is a POC of an Chatbot for an ecommerce platform. 
 
 ## Flowchart
-![Flow Chart](app/resources/flowchart.png)
+![Flow Chart] <img src ="app/resources/flowchart.png" width="300">
 
 ### Setup and execution.
 
