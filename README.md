@@ -3,3 +3,14 @@ This is a POC of an Chatbot for an ecommerce platform.
 
 ## Flowchart
 ![Flow Chart](app/resources/flowchart.png)
+
+### Setup and execution.
+
+1. Install the dependencies as per requirements.txt
+2. Place the below keys in .env file
+    GROQ_MODEL=<Add the model name, e.g. llama-3.3-70b-versatile>
+    GROQ_API_KEY=<GROQ api key>
+3. run the streamlit app
+    ```bash
+            streamlit run app/main.py
+    ```
